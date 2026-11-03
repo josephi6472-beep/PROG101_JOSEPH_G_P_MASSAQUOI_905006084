@@ -1,2 +1,16 @@
 # PROG101_JOSEPH_G_P_MASSAQUOI_905006084
 A school attendance management system designed to record, manage, and monitor student attendance.
+
+## PROG101 - THE SCHOOL ATTENDANCE MANAGEMENT SYSTEM
+
+The School Attendance Management System is a console based application designed to efficiently record, manage, and monitor student attendance. The system processes attendance for twenty five students by employing a user friendly loop based entry mechanism. It utilizes string inputs for attendance status, 'P' for present and 'A' for absent, and accurately updates the counters for students present and absent in real time.
+
+## THE PROBLEM
+
+Traditional paper based attendance systems are highly prone to physical loss and damage, leading to permanent loss of valuable student records. Furthermore, retrieving historical attendance data is extremely time consuming and inefficient. Manual data entry also significantly increases the risk of human error during the recording or calculation of attendance totals.
+
+## SOLUTION
+
+The proposed solution is a console based School Attendance Management System designed to streamline the attendance tracking process. The system uses an automated loop based entry mechanism to process daily attendance for twenty five students. By accepting simple string inputs for present and absent, it accurately calculates and updates attendance totals in real time, eliminating the inefficiencies and errors associated with manual data entry.
+
+## FLOWCHART
