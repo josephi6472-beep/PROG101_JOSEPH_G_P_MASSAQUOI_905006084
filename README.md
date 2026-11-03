@@ -21,21 +21,35 @@ Furthermore, it aligns with Sustainable Development Goal 11: Sustainable Cities 
 ## Pseudocode
 
 Begin
+
 Register Students, Present, Absent
+
 Set Present = 0
+
 Set Absent = 0
+
 Call Bring Attendance
+
 Output "Welcome to the School Attendance Management System"
+
 For X = 1 To 25
+
 Output "Enter P for Present or A for Absent"
+
 Input Attendance
+
 If Attendance == 'P' Then
+
 Present = Present + 1
+
 Else
 Absent = Absent + 1
+
 End If
+
 Next
 Output Present, Absent
+
 End
 
 ## FLOWCHART
