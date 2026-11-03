@@ -13,6 +13,12 @@ Traditional paper based attendance systems are highly prone to physical loss and
 
 The proposed solution is a console based School Attendance Management System designed to streamline the attendance tracking process. The system uses an automated loop based entry mechanism to process daily attendance for twenty five students. By accepting simple string inputs for present and absent, it accurately calculates and updates attendance totals in real time, eliminating the inefficiencies and errors associated with manual data entry.
 
+## Sustainable Development Goal (SDG) Alignment
+
+The proposed School Attendance Management System supports Sustainable Development Goal 4: Quality Education. This goal includes ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all. By automating daily attendance tracking, the system reduces administrative overhead for educational institutions, allowing teachers and administrators to focus more time on instruction and student engagement.
+Furthermore, it aligns with Sustainable Development Goal 11: Sustainable Cities and Communities, fostering safer, more resilient, and efficient institutional environments.
+
+
 ##Pseudocode
 
 Begin
