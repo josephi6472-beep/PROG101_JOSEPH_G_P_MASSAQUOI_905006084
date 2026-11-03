@@ -1,4 +1,4 @@
-# PROG101_JOSEPH_G_P_MASSAQUOI_905006084
+# PROG101_ASSIGNMENT_1_JOSEPH_G_P_MASSAQUOI_905006084
 A school attendance management system designed to record, manage, and monitor student attendance.
 
 ## PROG101 - THE SCHOOL ATTENDANCE MANAGEMENT SYSTEM
