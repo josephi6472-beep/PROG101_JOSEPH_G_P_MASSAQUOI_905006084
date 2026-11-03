@@ -14,3 +14,4 @@ Traditional paper based attendance systems are highly prone to physical loss and
 The proposed solution is a console based School Attendance Management System designed to streamline the attendance tracking process. The system uses an automated loop based entry mechanism to process daily attendance for twenty five students. By accepting simple string inputs for present and absent, it accurately calculates and updates attendance totals in real time, eliminating the inefficiencies and errors associated with manual data entry.
 
 ## FLOWCHART
+![Attendance Flowchart](https://github.com/user-attachments/assets/046a1a68-a5cc-4679-94a3-f2625587e579)
