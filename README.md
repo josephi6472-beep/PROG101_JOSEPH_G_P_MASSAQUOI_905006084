@@ -18,7 +18,6 @@ The proposed solution is a console based School Attendance Management System des
 The proposed School Attendance Management System supports Sustainable Development Goal 4: Quality Education. This goal includes ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all. By automating daily attendance tracking, the system reduces administrative overhead for educational institutions, allowing teachers and administrators to focus more time on instruction and student engagement.
 Furthermore, it aligns with Sustainable Development Goal 11: Sustainable Cities and Communities, fostering safer, more resilient, and efficient institutional environments.
 
-
 ##Pseudocode
 
 Begin
