@@ -19,41 +19,40 @@ The proposed School Attendance Management System supports Sustainable Developmen
 Furthermore, it aligns with Sustainable Development Goal 11: Sustainable Cities and Communities, fostering safer, more resilient, and efficient institutional environments.
 
 ## Pseudocode
+START
 
-Begin
+    DECLARE Students, Present, Absent AS INTEGER
+    DECLARE Attendance AS STRING
 
-Register Students, Present, Absent
+    SET Present = 0
+    SET Absent = 0
 
-Set Present = 0
+    OUTPUT "Welcome to the School Attendance Management System"
 
-Set Absent = 0
+    FOR Students = 1 TO 25
 
-Call Bring Attendance
+        OUTPUT "Enter P for Present or A for Absent"
+        INPUT Attendance
 
-Output "Welcome to the School Attendance Management System"
+        IF Attendance = "P" THEN
+            Present = Present + 1
 
-For X = 1 To 25
+        ELSE IF Attendance = "A" THEN
+            Absent = Absent + 1
 
-Output "Enter P for Present or A for Absent"
+        ELSE
+            OUTPUT "Invalid attendance input"
 
-Input Attendance
+        END IF
 
-If Attendance == 'P' Then
+    END FOR
 
-Present = Present + 1
+    OUTPUT "Total Present: ", Present
+    OUTPUT "Total Absent: ", Absent
 
-Else
-Absent = Absent + 1
-
-End If
-
-Next
-Output Present, Absent
-
-End
-
+END
 ## FLOWCHART
-![Attendance Flowchart](https://github.com/user-attachments/assets/046a1a68-a5cc-4679-94a3-f2625587e579)
+![Attendance Flowchart](https://github.com/user-attachments/assets/4064fb6c-7054-41c8-ae22-b96e788afc73)
 
 ## Impact of Solution
 
